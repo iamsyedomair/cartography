@@ -2,8 +2,6 @@
 
 ### directly affecting cartography
 
-- [ ] Replace session.read_transaction / write_transaction → execute_read / execute_write
+- [x] Replace session.read_transaction / write_transaction → execute_read / execute_write
 
-### indirectly affecting cartography
-
-- [ ] New exception types (ConfigurationError, ConnectionAcquisitionTimeoutError)
+- [ ] Test what else is breaking 
